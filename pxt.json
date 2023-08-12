@@ -1,0 +1,22 @@
+{
+    "name": "Module-World-Spanish",
+    "version": "0.0.1",
+    "description": "Extension for YahBoom YB_Module-World-Spanish V1.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/Module-World-Spanish-strings.json",
+        "_locales/zh-tw/Module-World-Spanish-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj"
+}
